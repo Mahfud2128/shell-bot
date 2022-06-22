@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/bin/bash
 // Starts the bot, handles permissions and chat context,
 // interprets commands and delegates the actual command
 // running to a Command instance. When started, an owner
